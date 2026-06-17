@@ -2,6 +2,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("**** Hello, World! ****");
         System.out.println("This run on GIT directly...");
-        System.out.println("This run on GITHub Hook Testing...");
+        System.out.println(">>>This run on GITHub Hook Testing...");
     }
 }
